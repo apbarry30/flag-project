@@ -1,0 +1,68 @@
+.france > rect:first-child{
+  fill: rgb(8,8,99);
+}
+.france > rect:nth-child(2){
+  fill: white;
+}
+.france > rect:last-child{
+  fill: rgb(214,8,24);
+}
+
+
+.netherlands > rect:first-child{
+  fill: rgb(222, 16,24);
+}
+.netherlands > rect:nth-child(2){
+  fill: white;
+}
+.netherlands > rect:last-child{
+  fill: rgb(0,41,132);
+}
+
+
+.poland > rect:first-child{
+  fill: white;
+}
+.poland > rect:last-child{
+  fill: rgb(222,16,24);
+}
+
+.baha > rect:first-child{
+  fill: rgb(0,140,173);
+}
+.baha > rect:nth-child(2){
+  fill: rgb(255,239,49);
+}
+.baha > rect:nth-child(3){
+  fill: rgb(0,140,173);
+}
+.baha > polyline:last-child{
+  fill: black;
+}
+
+
+
+
+.scottland > rect:first-child{
+  fill: rgb(8,82,165);
+}
+.scottland > line:nth-child(2){
+  fill: white;
+}
+.scottland > line:last-child{
+  fill: white;
+}
+
+.israel > rect:first-child{
+  fill: white;
+}
+
+.israel > rect:nth-child(2){
+  fill: rgb(8,82,165);
+}
+.israel > rect:nth-child(3){
+  fill: rgb(8,82,165);
+}
+.israel > polygon{
+  fill: transparent;
+}
